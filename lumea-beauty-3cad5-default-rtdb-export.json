@@ -1,0 +1,56 @@
+{
+  "consultations": {
+    "consultation_001": {
+      "catatan": "Ingin konsultasi rutinitas skincare harian.",
+      "email": "alya@example.com",
+      "nama_pelanggan": "Alya Putri",
+      "no_telepon": "081234567890",
+      "service_id": "service_002",
+      "status": "menunggu",
+      "tanggal_konsultasi": "2026-11-05"
+    }
+  },
+  "products": {
+    "product_001": {
+      "deskripsi": "Serum untuk rutinitas perawatan kulit harian.",
+      "gambar": "assets/images/serum.jpg",
+      "harga": 285000,
+      "kategori": "Skincare Serum",
+      "nama_produk": "Luméa Radiance Gold Serum",
+      "status": "aktif",
+      "stok": 25
+    },
+    "product_002": {
+      "deskripsi": "Produk cushion untuk melengkapi riasan.",
+      "gambar": "assets/images/cushion.jpg",
+      "harga": 175000,
+      "kategori": "Makeup Cushion",
+      "nama_produk": "Luméa Cushion",
+      "status": "aktif",
+      "stok": 20
+    }
+  },
+  "services": {
+    "service_001": {
+      "deskripsi": "Perawatan wajah mendalam untuk membersihkan dan menyegarkan kulit.",
+      "durasi_menit": 90,
+      "harga": 450000,
+      "nama_layanan": "Signature Facial & Rejuvenation",
+      "status": "aktif"
+    },
+    "service_002": {
+      "deskripsi": "Konsultasi personal untuk membahas kebutuhan kulit dan rutinitas produk.",
+      "durasi_menit": 45,
+      "harga": 200000,
+      "nama_layanan": "Custom Skincare Consultation",
+      "status": "aktif"
+    }
+  },
+  "users": {
+    "user_001": {
+      "email": "alya@example.com",
+      "nama": "Alya Putri",
+      "no_telepon": "081234567890"
+    }
+  }
+}
